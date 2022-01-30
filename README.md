@@ -30,9 +30,10 @@ Contribute
 -----
 
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Feel free to contact me: xabierblanch@gmail.com
 
 License
 -----
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)<br/><br/>
+[![CC0](https://licensebuttons.net/i/cc-gift-guide/by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)
