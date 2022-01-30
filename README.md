@@ -10,18 +10,11 @@ Blanch, X.; Abellan, A.; Guinau, M. Point Cloud Stacking: A Workflow to Enhance 
 
 ![image](https://user-images.githubusercontent.com/37353398/151721717-f6eade1e-17ab-4fe3-827c-fcb7ada27309.png)
 
-Markups
--------
-
 Usage
 -----
 
-Basic form:
+* [NP_Promig_3D_function.m](https://github.com/xabierblanch/PCStacking/blob/main/NP_Promig_3D_function.m) 
 
-```ruby
-require 'github/markup'
+* [NP_Sintetic_function.m](https://github.com/xabierblanch/PCStacking/blob/main/NP_Sintetic_function.m) 
 
-GitHub::Markup.render('README.markdown', "* One\n* Two")
-```
-
-* [.markdown, .mdown, .mkdn, .md](http://daringfireball.net/projects/markdown/) -- `gem install commonmarker` (https://github.com/gjtorikian/commonmarker)
+* [Script_control_test.m](https://github.com/xabierblanch/PCStacking/blob/main/Script_control_test.m) 
