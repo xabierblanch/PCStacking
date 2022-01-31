@@ -20,11 +20,11 @@ Graphical Abstract:
 Usage
 -----
 
-* [NP_Promig_3D_function.m](NP_Promig_3D_function.m) 
+* [NP_Promig_3D_function.m](NP_Promig_3D_function.m) -> MATLAB code that performs the PCStacking process.
 
-* [NP_Sintetic_function.m](https://github.com/xabierblanch/PCStacking/blob/main/NP_Sintetic_function.m) 
+* [NP_Sintetic_function.m](https://github.com/xabierblanch/PCStacking/blob/main/NP_Sintetic_function.m) -> MATLAB code that randomly generates 3D point clouds (from a mathematical function)
 
-* [Script_control_test.m](https://github.com/xabierblanch/PCStacking/blob/main/Script_control_test.m) 
+* [Script_control_test.m](https://github.com/xabierblanch/PCStacking/blob/main/Script_control_test.m) -> MATLAB code that automatically performs the comparison of point clouds. Run the following .bat code: [Script_Comparacio_DEFORMATION_2.bat](https://github.com/xabierblanch/PCStacking/blob/main/Script_Comparacio_DEFORMATION_2.bat) 
 
 Contribute
 -----
