@@ -7,7 +7,7 @@ Code developed in MATLAB to perform the PCStacking algorithm on point clouds. Th
 
 * More information is detailed in the [article](https://www.mdpi.com/2072-4292/12/8/1240) 
 
-How to citate:
+How to cite:
 -----
 
 Blanch, X.; Abellan, A.; Guinau, M. Point Cloud Stacking: A Workflow to Enhance 3D Monitoring Capabilities Using Time-Lapse Cameras. Remote Sens. 2020, 12, 1240. https://doi.org/10.3390/rs12081240
