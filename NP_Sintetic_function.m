@@ -1,15 +1,15 @@
 function num = NP_Sintetic_function(num)
 
-%% Original ABF, modificat per XBG (Script ràpid de test)
+%% Original ABF, modificat per XBG (Script rÃ pid de test)
 
-%% Inicialització de l'Script
+%% InicialitzaciÃ³ de l'Script
 % tic
 % beep
 % clear all
 % clc
 
 %%
-%NÚMERO DE MODELS A GENERAR
+%NÃšMERO DE MODELS A GENERAR
 %num=20;
 
 %% Define puntos de la malla (regluar size, a = pixel size)
@@ -18,7 +18,7 @@ a=0.03;
 x=reshape (x_mesh,[],1);
 y=reshape (y_mesh,[],1);
 
-%% Define la funcion a interpolar (por ejemplo una funcion 2D sexy) y añadir ruido gaussiano
+%% Define la funcion a interpolar y aÃ±adir ruido gaussiano
 z = 2*exp(-x.^2-y.^6); 
 z=abs(z);
 
