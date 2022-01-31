@@ -12,7 +12,7 @@ Codes developed as part of a doctoral research at Universtiy of Barcelona (PhD).
 How to cite:
 -----
 
-Blanch, X.; Abellan, A.; Guinau, M. Point Cloud Stacking: A Workflow to Enhance 3D Monitoring Capabilities Using Time-Lapse Cameras. Remote Sens. 2020, 12, 1240. https://doi.org/10.3390/rs12081240
+* Blanch, X.; Abellan, A.; Guinau, M. Point Cloud Stacking: A Workflow to Enhance 3D Monitoring Capabilities Using Time-Lapse Cameras. Remote Sens. 2020, 12, 1240. https://doi.org/10.3390/rs12081240
 
 Graphical Abstract:
 -----
