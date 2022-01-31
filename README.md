@@ -3,9 +3,11 @@ Author: Xabier Blanch<br/>
 Contact: xabierblanch@gmail.com<br/>
 Publication: https://www.mdpi.com/2072-4292/12/8/1240
 
-Code developed in MATLAB to perform the PCStacking algorithm on point clouds. The code is developed for a particular case, some modifications will be necessary.
+Code developed in MATLAB to perform the PCStacking algorithm on point clouds. The basic principle of the PCstacking algorithm is straightforward: it computes the median of the Z coordinates of each point for multiple photogrammetric models to give a resulting point cloud with a greater precision than any of the individual point cloud.
 
 * More information is detailed in the [article](https://www.mdpi.com/2072-4292/12/8/1240) 
+
+Codes developed as part of a doctoral research at Universtiy of Barcelona (PhD). All these codes are developed for a particular case, some modifications will be necessary. If you use these codes or if they inspire you in your work, please share it with me :D (And cite it correctly).
 
 How to cite:
 -----
